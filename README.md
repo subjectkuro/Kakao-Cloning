@@ -1,2 +1,2 @@
 # KakaoTalk_Cloning
- Cloning Kakaotalk
+Kakao Desktop App Clone
